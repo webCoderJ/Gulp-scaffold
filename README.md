@@ -1,4 +1,4 @@
-# global.tiger.index
+# gulp-static
 
 gulp build
 need : nodejs env
